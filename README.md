@@ -18,7 +18,7 @@ cd story1
 
 Open story.txt to see the "parts" of the story -- you'll be assigned a part.
 
-When you're ready to commit your part to github:
+When you're ready to commit your part to github, do it like this:
 
 ```sh
 git commit -a -m"progress on my part"
