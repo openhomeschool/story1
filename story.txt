@@ -5,8 +5,15 @@
 ok let's start with friedrick. friedrick is an extremely fat hamster that lives with the condiment king. he is also cousins with the twitchy banana man. the scared little banana man and the condiment king are somehow realated, something like brothers once removed with the same grandparents. the condiment king and the banana man are always trying to teach freidrick english but ends up just trying to bite banana mans head off since he is the exact size, shape, and color of a talking banana. the condiment king has a nasty temper and if anyone sneeks up behind him as a joke or on pourpose and startles him he would blast them in the face with his mustard gun which rosiland would have made for him. rosiland is the condiment kings house cleaner but she is also organising his army of little bottles of ketchup and relish. but she can't figure out to make them hold their mininture mustard blasters.                             
 		And larry. larry is pretty much just a nobody. he wanders in and out of each room of the condiment kings palace saying absolutly Nothing.he accasionally eats a handful of tomatoes and stares at people. he isn't really related to...well, anyone. and if he is brought up in a conversation people say "oh ya...Larry...that old bat" and then look for another topic. and if anyone asks how he is doing, he stares stares at them intenly, and then slips into shadows and disapears mysteriously. sometimes they stare back because he's just so wierd but for the most part nobody knows how he got there and just ignores him. and he doesn't seem to mind.
 
+<<<<<<< HEAD
 [Setting - place]thought
 
+=======
+
+[Setting - place]
+by iona:
+In a land very very close there was a land called Medieval Candyland. Though the land was sweet and delicious, as it says in it's name, it was medieval and bland for all the candy was old and was boring colors like brown and an off white.
+>>>>>>> 4818fed375c9b6d58084476f7a87cb9f0e7da396
 
 [Plot - intro]
 
